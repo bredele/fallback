@@ -1,5 +1,5 @@
 {
-  "name": "fallback",
+  "name": "@bredele/fallback",
   "version": "1.0.0",
   "description": "Run async functions in order until one succeeds",
   "main": "./dist/cjs/index.js",
